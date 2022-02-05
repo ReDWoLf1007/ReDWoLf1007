@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ReDWoLf1007 ♥
-- 👀 I’m interested in Web Development and Graphical designs.♦
+- 👀 I’m interested in Web Development and Graphic designing.♦
 - 🌱 I’m currently learning Javascript, HTML, CSS, Data Structure, Blender.♠
 - 📫 How to reach me st147456@gmail.com ♣
 
