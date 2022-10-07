@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Javascript, HTML, CSS, Data Structures, Blender**
 
+- 🌱 I worked on **3D model of dices on blender, a joking website on a teddy bear, a calculator with C++ and more**
+
 - 📫 How to reach me **st147456@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
