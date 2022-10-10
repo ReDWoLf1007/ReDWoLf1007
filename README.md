@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umi</h1>
+<h1 align="center">Hi 👋, I'm Sagar Tiwari</h1>
 <h3 align="center">A passionate Coder and designer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redwolf1007&label=Profile%20views&color=0e75b6&style=flat" alt="redwolf1007" /> </p>
