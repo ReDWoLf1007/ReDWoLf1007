@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redwolf1007&label=Profile%20views&color=0e75b6&style=flat" alt="redwolf1007" /> </p>
 
-- 🔭 I’m currently working on **my college mini project**
+- 🔭 I’m currently working on **my mini project**
 
 - 🌱 **HTML Beginner, C++ medium level, C medium level, Python Beginner level, Blender Beginner Level**
 
 - 🌱 I worked on **3D model of dices on blender, a joking website on a teddy bear, a calculator with C++ and more**
 
-- 📫 How to reach me **st147456@gmail.com**
+- 📫 How to reach me **sagar.tiwari.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
