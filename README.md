@@ -7,7 +7,7 @@
 
 - 🌱 **HTML Beginner, C++ medium level, C medium level, Python Beginner level, Blender Beginner Level**
 
-- 🌱 I worked on **3D model of dice on the blender, a joking website on a teddy bear, a calculator with C++, and more**
+- 🌱 I worked on **A joking website on a teddy bear, a calculator with C++, Consol Quize game, 3D model of dice on the blender and more**
 
 - 📫 How to reach me **sagar.tiwari.work@gmail.com**
 
