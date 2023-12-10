@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redwolf1007&label=Profile%20views&color=0e75b6&style=flat" alt="redwolf1007" /> </p>
 
-- 🔭 I’m currently working on **my mini project**
+- 🔭 I’m currently working on **my Major project**
 
 - 🌱 **HTML Beginner, C++ medium level, C medium level, Python Beginner level, Blender Beginner Level**
 
