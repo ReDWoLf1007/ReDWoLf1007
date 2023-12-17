@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redwolf1007&label=Profile%20views&color=0e75b6&style=flat" alt="redwolf1007" /> </p>
 
-- 🔭 I’m currently working on **my Major project**
+- 🔭 I’m currently working on **A Booksite**
 
-- 🌱 **HTML Beginner, C++ medium level, C medium level, Python Beginner level, Blender Beginner Level**
+- 🌱 **HTML Beginner, C++ medium level, C intermediate level, Python Beginner level, Blender Beginner Level**
 
 - 🌱 I worked on **A joking website on a teddy bear, a calculator with C++, Consol Quize game, 3D model of dice on the blender and more**
 
