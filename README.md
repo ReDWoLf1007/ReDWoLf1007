@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **A Booksite**
 
-- 🌱 **HTML Beginner, C++ medium level, C intermediate level, Python Beginner level, Blender Beginner Level**
+- 🌱 **C++ medium level, C intermediate level,Web Developer(HTML, CSS, JAVASCRIPT) Python Beginner level, Blender Beginner Level**
 
 - 🌱 I worked on **A joking website on a teddy bear, a calculator with C++, Consol Quize game, 3D model of dice on the blender and more**
 
