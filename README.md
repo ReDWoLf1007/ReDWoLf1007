@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redwolf1007&label=Profile%20views&color=0e75b6&style=flat" alt="redwolf1007" /> </p>
 
-- 🔭 I’m currently working on **A Blog Website**
+- 🔭 I’m currently working on **School's Student Management System**
 
 - 🌱 **C++ intermediate level, C intermediate level, Front-end Web Developer(HTML, CSS, JAVASCRIPT), Python medium level, Blender Beginner Level**
 
