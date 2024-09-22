@@ -7,7 +7,7 @@
 
 - 🌱 **C++ intermediate level, C intermediate level, Front-end Web Developer(HTML, CSS, JAVASCRIPT), Python medium level, Blender Beginner Level**
 
-- 🌱 I worked on **A joking website on a teddy bear, a calculator with C++, Consol Quize game, 3D model of dice on the blender and more**
+- 🌱 I worked on **A Booksite, a calculator with C++ and Python, Consol Quize game, 3D model of dice on the blender, Landing Page and more**
 
 - 📫 How to reach me **sagar.tiwari.work@gmail.com**
 
