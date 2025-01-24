@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redwolf1007&label=Profile%20views&color=0e75b6&style=flat" alt="redwolf1007" /> </p>
 
-- 🔭 I’m currently working on **School's Student Management System**
+- 🔭 I’m working in Tibe Innovations PVT LTD, a START UP that works with GUI integration with hardware and RMS solution website.
 
-- 🌱 **C++ intermediate level, C intermediate level, Front-end Web Developer(HTML, CSS, JAVASCRIPT), Python medium level, Blender Beginner Level**
+- 🔭 I'm working on **Android app development** using **Kotlin** that includes **Bluetooth** features on hardware level.
 
-- 🌱 I worked on **A Booksite, a calculator with C++ and Python, Consol Quize game, 3D model of dice on the blender, Landing Page and more**
+- 🌱 **C++ intermediate level, C intermediate level, Full-Stack Web Developer(HTML, CSS, JAVASCRIPT, REACT, NODEJS), Python medium level, DATABASE MANAGEMENT**
+
+- 🌱 I worked on **A Booksite, SOFTWARE TOOL for Solar Street Light Configuration using Python, Consol Quize game, Content Writing and UI integration in WordPress, Landing Page and more**
 
 - 📫 How to reach me **sagar.tiwari.work@gmail.com**
 
